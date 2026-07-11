@@ -86,6 +86,7 @@
       "name": "Polynesian anemonefish",
       "scientificName": "Amphiprion maohiensis",
       "image": "creature-07.png",
+	"popupImage": "creature-07-full.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 07 \u2014 replace with a short visual description",
       "description": "Anemonefish have an iconic muralist relationship with their hosts> The fishes gain physical protection for themselves and their clutches of eggs, while the fishes protect their hosts from other fish predators.",
       "papers": ["O’Donnell, J. L. et al. (2025). A new species of Anemonefish from French Polynesia, Amphiprionmaohiensis,(Pomacentridae, Amphiprioninae), the Polynesian anemonefish. ZooKeys, 1244, 225.", "Schligler, J. et al. (2022). Aggression of an orange-fin anemonefish to a blacktip reef shark: a potential example of fish mobbing? Marine Biodiversity 52:17."],
