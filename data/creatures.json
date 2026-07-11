@@ -28,8 +28,8 @@
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 200,
       "y": 0,
-      "width": 200,
-      "height": 1200
+      "width": 82,
+      "height": 86
     },
     {
       "id": "Blacktip shark",
@@ -40,20 +40,20 @@
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 400,
       "y": 0,
-      "width": 200,
-      "height": 1200
+      "width": 2455,
+      "height": 755
     },
     {
-      "id": "creature-04",
-      "name": "PLACEHOLDER NAME 04",
+      "id": "Fishermen",
+      "name": "Poti Marara",
       "image": "creature-04.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 04 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 600,
       "y": 0,
-      "width": 200,
-      "height": 1200
+      "width": 1464,
+      "height": 606
     },
     {
       "id": "creature-05",
@@ -219,54 +219,6 @@
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 3400,
-      "y": 0,
-      "width": 200,
-      "height": 1200
-    },
-    {
-      "id": "creature-19",
-      "name": "PLACEHOLDER NAME 19",
-      "image": "creature-19.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 19 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 3600,
-      "y": 0,
-      "width": 200,
-      "height": 1200
-    },
-    {
-      "id": "creature-20",
-      "name": "PLACEHOLDER NAME 20",
-      "image": "creature-20.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 20 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 3800,
-      "y": 0,
-      "width": 200,
-      "height": 1200
-    },
-    {
-      "id": "creature-21",
-      "name": "PLACEHOLDER NAME 21",
-      "image": "creature-21.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 21 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 4000,
-      "y": 0,
-      "width": 200,
-      "height": 1200
-    },
-    {
-      "id": "creature-22",
-      "name": "PLACEHOLDER NAME 22",
-      "image": "creature-22.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 22 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 4200,
       "y": 0,
       "width": 200,
       "height": 1200
