@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moorea Coral Reef Infinity</title>
+  <meta name="description" content="An interactive sticker exploring the coral reef creatures of Moorea." />
+
+  <!-- Google Fonts: Manrope (headings) + Nunito Sans (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&family=Nunito+Sans:wght@400;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">Moorea Coral Reef Infinity</h1>
+    <p class="site-subtitle">Click or tap any creature in the sticker to learn more about it.</p>
+  </header>
+
+  <main>
+    <!-- The sticker stage holds the full sticker image plus one absolutely-positioned
+         overlay button per creature, at the coordinates defined in data/creatures.json. -->
+    <div id="sticker-stage" class="sticker-stage" aria-label="Interactive coral reef sticker">
+      <!-- Populated by js/main.js -->
+    </div>
+    <p class="stage-hint" id="stage-hint">Loading sticker&hellip;</p>
+  </main>
+
+  <!-- Popup / modal shown when a creature is selected -->
+  <div id="creature-modal" class="modal-overlay" hidden>
+    <div
+      class="modal-card"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modal-title"
+      tabindex="-1"
+    >
+      <button type="button" id="modal-close" class="modal-close" aria-label="Close">&times;</button>
+      <img id="modal-image" class="modal-image" src="" alt="" hidden />
+      <h2 id="modal-title" class="modal-title"></h2>
+      <p id="modal-description" class="modal-description"></p>
+      <p id="modal-fun-fact" class="modal-fun-fact"></p>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Sticker design &amp; site by Adelaide Dahl.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
