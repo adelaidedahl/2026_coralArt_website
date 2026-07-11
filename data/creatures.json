@@ -10,11 +10,12 @@
     {
       "id": "Forereef corals",
       "name": "Forereef coral community",
-      "scientificName": "",
+      "scientificName": "Pocillopora spp.",
       "image": "creature-01.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 01 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
+      "description": "The outer reefs on Moorea have experienced many disturbances including bleaching and cyclones. Cyclones can sometimes act as a slate-clearing event, making space for new corals to settle and grow. After the most recent bleaching of 2019, the majority of corals that recovered were from the same genera, shown here.",
+      "papers": "Burgess, S. C. et al. 2021. Response diversity in corals: Hidden differences in bleaching mortality among cryptic Pocillopora species. Ecology, 102(6), e03324. https://doi.org/10.1002/ecy.3324
+",
       "x": 733,
       "y": 488,
       "width": 522,
@@ -106,7 +107,7 @@
       "alt": "PLACEHOLDER ALT TEXT \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 1557,
+      "x": 1552,
       "y": 595,
       "width": 237,
       "height": 154
