@@ -28,8 +28,8 @@
       "alt": "PLACEHOLDER ALT TEXT for creature 02 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 2670,
-      "y": 600,
+      "x": 2680,
+      "y": 610,
       "width": 420,
       "height": 144
     },
@@ -67,7 +67,7 @@
       "alt": "PLACEHOLDER ALT TEXT \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 2242,
+      "x": 2232,
       "y": 581,
       "width": 372,
       "height": 184
@@ -197,7 +197,7 @@
       "alt": "PLACEHOLDER ALT TEXT \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 1688,
+      "x": 1678,
       "y": 491,
       "width": 594,
       "height": 161
@@ -210,8 +210,8 @@
       "alt": "PLACEHOLDER ALT TEXT \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 2610,
-      "y": 567,
+      "x": 2600,
+      "y": 563,
       "width": 90,
       "height": 165
     },
