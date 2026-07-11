@@ -359,7 +359,7 @@ main {
 }
 
 .modal-papers::before {
-  content: "Papers: ";
+  content: "Learn more: ";
   font-weight: 700;
   color: var(--color-white);
 }
