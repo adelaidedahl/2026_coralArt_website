@@ -13,8 +13,10 @@
       "scientificName": "Pocillopora spp.",
       "image": "creature-01.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 01 \u2014 replace with a short visual description",
-      "description": "The outer reefs on Moorea have experienced many disturbances including bleaching and cyclones. Cyclones can sometimes act as a slate-clearing event, making space for new corals to settle and grow. After the most recent bleaching of 2019, the majority of corals that recovered were from the same genera, shown here.",
+      "description": "The outer reefs on Moorea have experienced many disturbances including bleaching and cyclones. Cyclones can sometimes act as a slate-clearing event, making space for new corals to settle and grow. After the most recent bleaching of 2019, the majority of corals that recovered were from the same genera, <em>Pocillopora</em>, shown here. Another bleaching event more recently resulted in the widespread deaths of these corals, which are now sitting on the reef, hollowing out from within.",
       "papers": "Burgess, S. C. et al. 2021. Response diversity in corals: Hidden differences in bleaching mortality among cryptic Pocillopora species. Ecology, 102(6), e03324. https://doi.org/10.1002/ecy.3324
+
+Scafidi, K. C. et al. 2026. Remnant hollowed out dead coral skeleton branches defer coral community recovery. Plos one, 21(3), e0339527.
 ",
       "x": 733,
       "y": 488,
