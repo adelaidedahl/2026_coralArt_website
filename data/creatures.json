@@ -28,7 +28,7 @@
       "alt": "PLACEHOLDER ALT TEXT for creature 02 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 2680,
+      "x": 2681,
       "y": 605,
       "width": 420,
       "height": 144
@@ -211,7 +211,7 @@
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
       "x": 2605,
-      "y": 561,
+      "y": 559,
       "width": 90,
       "height": 165
     },
