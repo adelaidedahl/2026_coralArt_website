@@ -113,6 +113,18 @@ function pct(value, reference) {
   return `${(value / reference) * 100}%`;
 }
 
+// `papers` can be a single citation string, an array of citation strings
+// (rendered as a bullet list), or empty/undefined (renders nothing, and
+// the :empty CSS rule hides the whole box).
+function renderPapers(papers) {
+  if (!papers) return '';
+  if (Array.isArray(papers)) {
+    if (papers.length === 0) return '';
+    return '<ul>' + papers.map((citation) => `<li>${citation}</li>`).join('') + '</ul>';
+  }
+  return papers;
+}
+
 function selectCreature(creature, button) {
   const isAlreadyActive = button.classList.contains('is-active');
 
@@ -136,8 +148,12 @@ function openModal(creature, triggerEl) {
 
   modalTitle.textContent = creature.name;
   modalScientificName.textContent = creature.scientificName || '';
-  modalDescription.textContent = creature.description;
-  modalPapers.textContent = creature.papers || '';
+  // innerHTML (not textContent) so tags like <em> or <a> written directly
+  // into the JSON text render as formatting/links instead of literal text.
+  // This data is authored by us, not user-submitted, so there's no
+  // injection risk.
+  modalDescription.innerHTML = creature.description;
+  modalPapers.innerHTML = renderPapers(creature.papers);
 
   // Stay hidden until the image actually loads, so a missing file never
   // flashes a broken-image icon in the popup.
