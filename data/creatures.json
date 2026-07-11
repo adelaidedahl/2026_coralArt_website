@@ -44,17 +44,18 @@
       "height": 62
     },
     {
-      "id": "Blacktip reef shark",
-      "name": "Carcharhinus melanopterus",
+      "id": "Fishing vessel",
+      "name": "Fishing vessel",
       "image": "creature-04.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 04 \u2014 replace with a short visual description",
+      "alt": "PLACEHOLDER ALT TEXT for creature 06 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 739,
-      "y": 449,
-      "width": 391,
-      "height": 120
+      	"x": 610,
+	"y": 254,
+	"width": 527,
+	"height": 218
     },
+
     {
       "id": "Pacific Bluefin Tuna",
       "name": "Thunnus orientalis",
@@ -67,17 +68,17 @@
       "width": 236,
       "height": 93
     },
-    {
-      "id": "Fishing vessel",
-      "name": "Fishing vessel",
+{
+      "id": "Blacktip reef shark",
+      "name": "Carcharhinus melanopterus",
       "image": "creature-06.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 06 \u2014 replace with a short visual description",
+      "alt": "PLACEHOLDER ALT TEXT for creature 04 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      	"x": 610,
-	"y": 254,
-	"width": 527,
-	"height": 218
+      "x": 739,
+      "y": 449,
+      "width": 391,
+      "height": 120
     },
     {
       "id": "Clownfish",
