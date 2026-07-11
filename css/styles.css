@@ -283,7 +283,20 @@ main {
   font-weight: 800;
   color: var(--color-navy);
   font-size: 1.5rem;
+  margin: 0 0 0.25rem;
+}
+
+.modal-scientific-name {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--color-slate);
+  font-size: 1rem;
   margin: 0 0 0.75rem;
+}
+
+.modal-scientific-name:empty {
+  display: none;
 }
 
 .modal-description {
@@ -293,7 +306,7 @@ main {
   margin: 0 0 1rem;
 }
 
-.modal-fun-fact {
+.modal-papers {
   font-family: var(--font-body);
   font-size: 0.95rem;
   color: var(--color-white);
@@ -303,8 +316,12 @@ main {
   margin: 0;
 }
 
-.modal-fun-fact::before {
-  content: "Fun fact: ";
+.modal-papers:empty {
+  display: none;
+}
+
+.modal-papers::before {
+  content: "Papers: ";
   font-weight: 700;
   color: var(--color-white);
 }

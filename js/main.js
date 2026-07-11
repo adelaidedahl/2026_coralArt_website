@@ -16,8 +16,9 @@ const modalCard = modal.querySelector('.modal-card');
 const modalCloseBtn = document.getElementById('modal-close');
 const modalImage = document.getElementById('modal-image');
 const modalTitle = document.getElementById('modal-title');
+const modalScientificName = document.getElementById('modal-scientific-name');
 const modalDescription = document.getElementById('modal-description');
-const modalFunFact = document.getElementById('modal-fun-fact');
+const modalPapers = document.getElementById('modal-papers');
 
 let lastFocusedElement = null;
 
@@ -134,8 +135,9 @@ function openModal(creature, triggerEl) {
   lastFocusedElement = triggerEl;
 
   modalTitle.textContent = creature.name;
+  modalScientificName.textContent = creature.scientificName || '';
   modalDescription.textContent = creature.description;
-  modalFunFact.textContent = creature.funFact;
+  modalPapers.textContent = creature.papers || '';
 
   // Stay hidden until the image actually loads, so a missing file never
   // flashes a broken-image icon in the popup.
