@@ -229,17 +229,17 @@
       "height": 137
     },
     {
-      "id": "creature-18",
-      "name": "PLACEHOLDER NAME 18",
-      "scientificName": "PLACEHOLDER SCIENTIFIC NAME 18",
+      "id": "Macroalgae",
+      "name": "Macroalgae",
+      "scientificName": "Turbinaria ornata",
       "image": "creature-18.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 18 \u2014 replace with a short visual description",
+      "alt": "PLACEHOLDER ALT TEXT \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 3400,
-      "y": 0,
-      "width": 200,
-      "height": 1200
+      "x": 1557,
+      "y": 588,
+      "width": 237,
+      "height": 154
     }
   ]
 }
