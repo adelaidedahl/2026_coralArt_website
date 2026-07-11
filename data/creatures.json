@@ -184,6 +184,7 @@
       "name": "Pacific Bluefin Tuna",
       "scientificName": "Thunnus orientalis",
       "image": "creature-05.png",
+	"popupImage": "creature-05-full.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 05 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "papers": ["PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank."],

@@ -165,7 +165,9 @@ function openModal(creature, triggerEl) {
     modalImage.hidden = true;
   };
   modalImage.alt = creature.alt || creature.name;
-  modalImage.src = IMAGE_BASE + 'creatures/' + creature.image;
+  modalImage.src = creature.popupImage
+  ? IMAGE_BASE + 'creatures-full/' + creature.popupImage
+  : IMAGE_BASE + 'creatures/' + creature.image;
 
   modal.hidden = false;
   modalCard.focus();
