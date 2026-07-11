@@ -47,19 +47,6 @@
       "height": 218
     },
     {
-      "id": "Pacific Bluefin Tuna",
-      "name": "Pacific Bluefin Tuna",
-      "scientificName": "Thunnus orientalis",
-      "image": "creature-05.png",
-      "alt": "PLACEHOLDER ALT TEXT for creature 05 \u2014 replace with a short visual description",
-      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
-      "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
-      "x": 240,
-      "y": 618,
-      "width": 236,
-      "height": 93
-    },
-    {
       "id": "Blacktip reef shark",
       "name": "Blacktip reef shark",
       "scientificName": "Carcharhinus melanopterus",
@@ -162,6 +149,19 @@
       "y": 275,
       "width": 482,
       "height": 483
+    },
+    {
+      "id": "Pacific Bluefin Tuna",
+      "name": "Pacific Bluefin Tuna",
+      "scientificName": "Thunnus orientalis",
+      "image": "creature-05.png",
+      "alt": "PLACEHOLDER ALT TEXT for creature 05 \u2014 replace with a short visual description",
+      "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
+      "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
+      "x": 240,
+      "y": 618,
+      "width": 236,
+      "height": 93
     },
     {
       "id": "Southern stingray",
