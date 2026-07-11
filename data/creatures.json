@@ -68,8 +68,8 @@
       "height": 93
     },
     {
-      "id": "creature-06",
-      "name": "PLACEHOLDER NAME 06",
+      "id": "Fishing vessel",
+      "name": "Fishing vessel",
       "image": "creature-06.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 06 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
@@ -80,8 +80,8 @@
 	"height": 218
     },
     {
-      "id": "creature-07",
-      "name": "PLACEHOLDER NAME 07",
+      "id": "Clownfish",
+      "name": "Clownfish",
       "image": "creature-07.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 07 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
@@ -92,8 +92,8 @@
 	"height": 84
     },
     {
-      "id": "creature-08",
-      "name": "PLACEHOLDER NAME 08",
+      "id": "fourstripe fish",
+      "name": "fourstripe fish",
       "image": "creature-08.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 08 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
