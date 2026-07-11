@@ -2,8 +2,8 @@
   "sticker": {
     "file": "full-sticker.png",
     "alt": "Full sticker design: a long horizontal illustration featuring 22 coral reef creatures and features",
-    "referenceWidth": 4400,
-    "referenceHeight": 1200,
+    "referenceWidth": 3428,
+    "referenceHeight": 785,
     "_note": "referenceWidth/referenceHeight MUST match the actual pixel dimensions of full-sticker.png exactly, or every creature's position will be misaligned. Update these the moment you know the real sticker size."
   },
   "creatures": [
@@ -16,8 +16,8 @@
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 0,
       "y": 0,
-      "width": 200,
-      "height": 1200
+      "width": 372,
+      "height": 183
     },
     {
       "id": "Four stripe damselfish",
