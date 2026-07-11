@@ -13,11 +13,9 @@
       "scientificName": "Pocillopora spp.",
       "image": "creature-01.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 01 \u2014 replace with a short visual description",
-      "description": "The outer reef is called the fore reef and serves as the primary physical barrier between the outer ocean and lagoon. The forereef on Moorea has experienced many disturbances including bleaching and cyclones. 
-
-Cyclones can sometimes act as a slate-clearing event, making space for new corals to settle and grow. After the most recent bleaching of 2019, the majority of corals that recovered were from the same genera, Pocillopora, shown here. Another bleaching event more recently resulted in the widespread deaths of these corals, which are now sitting on the reef, hollowing out from within.",
+      "description": "The outer reef is called the fore reef and serves as the primary physical barrier between the outer ocean and lagoon. The forereef on Moorea has experienced many disturbances including bleaching and cyclones. Cyclones can sometimes act as a slate-clearing event, making space for new corals to settle and grow. After the most recent bleaching of 2019, the majority of corals that recovered were from the same genera, Pocillopora, shown here. Another bleaching event more recently resulted in the widespread deaths of these corals, which are now sitting on the reef, hollowing out from within.",
       "papers": [
-"Burgess, S. C. et al. 2021. Response diversity in corals: Hidden differences in bleaching mortality among cryptic Pocillopora species. Ecology, 102(6), e03324. https://doi.org/10.1002/ecy.3324 " , " Scafidi, K. C. et al. 2026. Remnant hollowed out dead coral skeleton branches defer coral community recovery. Plos one, 21(3), e0339527."
+"Burgess, S. C. et al. (2021). Response diversity in corals: Hidden differences in bleaching mortality among cryptic Pocillopora species. Ecology, 102(6), e03324. " , " Scafidi, K. C. et al. (2026). Remnant hollowed out dead coral skeleton branches defer coral community recovery. Plos one, 21(3), e0339527."
 ],
       "x": 733,
       "y": 488,
@@ -30,21 +28,22 @@ Cyclones can sometimes act as a slate-clearing event, making space for new coral
       "scientificName": "",
       "image": "creature-02.png",
       "alt": "A cluster of light brown corals with sea urchins around them",
-      "description": "The reef closest to the island is called the fringing reef.",
-      "papers": "PLACEHOLDER \u2014 replace with a citation for a relevant scientific paper, or leave blank.",
+      "description": "The reef closest to the island is called the fringing reef. This ecosystem is first to absorb any pollutants that run off the land into the water and, in Moorea, is characterized by many corals from the genus Porites. Here you ca see the Porites rus corals creating a habitat for sea urchins, which can be found in high abundance in these nearshore environments.",
+      "papers": "Edmunds, P. J. et al. (2025). Long‐term community dynamics are heterogeneous between fringing‐and fore‐reef habitats on an Indo‐Pacific coral reef. Ecosphere, 16(10), e70398.",
       "x": 2681,
       "y": 605,
       "width": 420,
       "height": 144
     },
+
     {
       "id": "Fishing vessel",
       "name": "Poti Marara",
       "scientificName": "",
       "image": "creature-04.png",
-      "alt": "...",
-      "description": "...",
-      "papers": "...",
+      "alt": "A red fishing boat, moving quickly over the water.",
+      "description": ""Poti" means boat in Tahitian, and "marara" means flying fish, illustrating the speed of these vessels as their V shaped hull cuts seamlessly into the water. With a bow-positioned tiller, the driver is able to steer the boat with one hand, and spear fish from their high vantage point with the other. The front tiller steering allows for tight turns and easy mobility.",
+      "papers": "https://www.youtube.com/watch?v=3NnmcbEriiQ&t=3s",
       "x": 594,
       "y": 254,
       "width": 527,
