@@ -43,26 +43,26 @@
       "width": 98,
       "height": 62
     },
-    {
-      "id": "Fishing vessel",
-      "name": "Fishing vessel",
-      "image": "creature-04.png",
-      "alt": "...",
-      "description": "...",
-      "funFact": "...",
-      "x": 589,
-      "y": 254,
-      "width": 527,
-      "height": 218
-    },
-    {
+{
+  "id": "Fishing vessel",
+  "name": "Poti Marara",
+  "image": "creature-04.png",
+  "alt": "...",
+  "description": "...",
+  "funFact": "...",
+  "x":  594, 
+  "y":  254,
+  "width": 527,
+  "height": 218
+},
+ {
       "id": "Pacific Bluefin Tuna",
       "name": "Thunnus orientalis",
       "image": "creature-05.png",
       "alt": "PLACEHOLDER ALT TEXT for creature 05 \u2014 replace with a short visual description",
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
-      "x": 230,
+      "x": 240,
       "y": 618,
       "width": 236,
       "height": 93
