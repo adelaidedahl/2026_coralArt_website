@@ -27,7 +27,7 @@
       "description": "PLACEHOLDER DESCRIPTION \u2014 replace with 1-3 sentences about this creature/feature.",
       "funFact": "PLACEHOLDER FUN FACT \u2014 replace with a fun fact or stat about this creature.",
       "x": 2670,
-      "y": 607,
+      "y": 600,
       "width": 420,
       "height": 144
     },
@@ -71,10 +71,10 @@
       "id": "Blacktip reef shark",
       "name": "Carcharhinus melanopterus",
       "image": "creature-06.png",
-      "alt": "...",
-      "description": "...",
-      "funFact": "...",
-      "x": 710,
+      "alt": "The blacktop reef shark is...",
+      "description": "this reef-dwelling shark...",
+      "Papers": "...",
+      "x": 720,
       "y": 449,
       "width": 391,
       "height": 120
